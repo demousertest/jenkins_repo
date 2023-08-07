@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4FYjYozSLhKLTwRHy8cwFr1pDW7uihyPrLBJoCnupbpuAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP2S1OKSeJBh8WWpRcWZ+Xn6AFtnsQPMAAAA[0mtest_java_version" build number [8mha:////4EqOYTrzXTNiweYJQmsUhG0P934ibkD6j6+nQNtBDknrAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwk/ZLU4pJ4kGHxZalFxZn5efrmAFbNAW/NAAAA[0m7
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version_fail
+[test_java_version_fail] $ cmd /c call C:\Users\HEMANT~1\AppData\Local\Temp\jenkins1260470123568018436.bat
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version_fail>printf( "hello this is print" ) 
+'printf' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version_fail>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

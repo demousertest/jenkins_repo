@@ -1,0 +1,14 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version
+[test_java_version] $ cmd /c call C:\Users\HEMANT~1\AppData\Local\Temp\jenkins195409299952057354.bat
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version>java -version 
+java version "1.8.0_381"
+Java(TM) SE Runtime Environment (build 1.8.0_381-b09)
+Java HotSpot(TM) Client VM (build 25.381-b09, mixed mode, sharing)
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\test_java_version>exit 0 
+Triggering a new build of [8mha:////4HoXJTAOh/lubRw6iNMdqlfn/hgkOHv3+ZJ2HyWzGXazAAAAph+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYZ/az8JP2S1OKSeJBh8WWpRcWZ+XnxaYmZOfoA1Uu1yNEAAAA=[0mtest_java_version_fail
+Triggering a new build of [8mha:////4DmVCnt1vbiQAP/tYnwt4+K5Q/xgyS9F9ENdLEHKXLhuAAAAlB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYO/az8JP2SVH0AR0+TYr0AAAA=[0mte
+Finished: SUCCESS
