@@ -1,0 +1,12 @@
+Started by upstream project "[8mha:////4FYjYozSLhKLTwRHy8cwFr1pDW7uihyPrLBJoCnupbpuAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP2S1OKSeJBh8WWpRcWZ+Xn6AFtnsQPMAAAA[0mtest_java_version" build number [8mha:////4D62rx53q+fqp+lpi2e9ePd7UKNDCkvZYAuB8vMR3TD4AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwk/ZLU4pJ4kGHxZalFxZn5efrGAE8JbGjNAAAA[0m3
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Hemant Mahawer-3348\.jenkins\workspace\te
+[te] $ cmd /c call C:\Users\HEMANT~1\AppData\Local\Temp\jenkins1654333686895877253.bat
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\te>echo "hello this is echo" 
+"hello this is echo"
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\te>exit 0 
+Finished: SUCCESS
