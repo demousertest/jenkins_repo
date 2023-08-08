@@ -1,0 +1,12 @@
+Started by user [8mha:////4C8akHnSJBXqoC6GWR8S/JMW6yJHQfuJFWc+LXc/Bi/ZAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9jNTcxLyS3MSMxPLUIgDKn4KFyAAAAA==[0mhemant mahawer
+Running as SYSTEM
+Building in workspace C:\Users\Hemant Mahawer-3348\.jenkins\workspace\run_java_code
+[run_java_code] $ cmd /c call C:\Users\HEMANT~1\AppData\Local\Temp\jenkins8118330867771585804.bat
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\run_java_code>javac java_test.java 
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Hemant Mahawer-3348\.jenkins\workspace\run_java_code>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
